@@ -26,7 +26,7 @@ I have been a full-stack developer for about 2 years now. I spend most of my day
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
     </a>
-      <a href="http://www.medium.com/Newkidsth" target="_blank" rel="noreferrer">
+      <a href="http://www.medium.com/@newkidsth" target="_blank" rel="noreferrer">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
