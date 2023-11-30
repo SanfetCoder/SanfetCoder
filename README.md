@@ -7,7 +7,7 @@ Full stack developer and Chief Technology Officer
 I have been a full-stack developer for about 2 years now. I spend most of my day binge-watching coding-related videos and practicing hands-on projects. My domain knowledge is all about web development, and I also have some knowledge in Artificial Intelligence.
 
 *   🌍  I'm based in Bangkok, Thailand
-*   🖥️  See my portfolio at [Sanphet Songjindasak](http://sanfetcoder.github.io/myCV/)
+*   🖥️  See my portfolio at [Sanphet Songjindasak](https://my-profile-two-iota.vercel.app/)
 *   ✉️  You can contact me at [newkidsth@gmail.com](mailto:newkidsth@gmail.com)
 *   🧠  I'm learning NextJS, Redis and Terraform
   
