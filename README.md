@@ -9,7 +9,7 @@ I have been a full-stack developer for about 2 years now. I spend most of my day
 *   🌍  I'm based in Bangkok, Thailand
 *   🖥️  See my portfolio at [Sanphet Songjindasak](https://my-profile-two-iota.vercel.app/)
 *   ✉️  You can contact me at [newkidsth@gmail.com](mailto:newkidsth@gmail.com)
-*   🧠  I'm learning NextJS, Redis and Terraform
+*   🧠  I'm learning Golang
   
   ### Skills 
 <p align="left">
